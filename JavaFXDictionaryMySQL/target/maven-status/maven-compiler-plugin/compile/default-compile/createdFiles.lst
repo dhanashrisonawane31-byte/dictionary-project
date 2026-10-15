@@ -1,0 +1,4 @@
+com\dictionary\Word.class
+com\dictionary\DictionaryApp.class
+com\dictionary\DatabaseConnection.class
+com\dictionary\DictionaryDAO.class
